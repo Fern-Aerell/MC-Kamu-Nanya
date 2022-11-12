@@ -1,0 +1,8205 @@
+{
+  "mob.warden.nearby_close": {
+    "category": "hostile",
+    "max_distance": 80.0,
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/mob/warden/nearby_close_4"
+    ]
+  },
+  "mob.warden.nearby_closer": {
+    "category": "hostile",
+    "max_distance": 80.0,
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.warden.nearby_closest": {
+    "category": "hostile",
+    "max_distance": 80.0,
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.warden.agitated": {
+    "category": "hostile",
+    "max_distance": 80.0,
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/mob/warden/agitated_6"
+    ]
+  },
+  "mob.warden.angry": {
+    "category": "hostile",
+    "max_distance": 80.0,
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/mob/warden/angry_6"
+    ]
+  },
+  "mob.warden.listening": {
+    "category": "hostile",
+    "max_distance": 160.0,
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/mob/warden/listening_5"
+    ]
+  },
+  "mob.warden.listening_angry": {
+    "category": "hostile",
+    "max_distance": 160.0,
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/mob/warden/listening_angry_5"
+    ]
+  },
+  "mob.warden.sniff": {
+    "category": "hostile",
+    "max_distance": 80.0,
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/mob/warden/sniff_4"
+    ]
+  },
+  "mob.warden.dig": {
+    "category": "hostile",
+    "max_distance": 80.0,
+    "sounds": [
+      "sounds/mob/warden/dig"
+    ]
+  },
+  "mob.warden.emerge": {
+    "category": "hostile",
+    "max_distance": 80.0,
+    "sounds": [
+      "sounds/mob/warden/emerge"
+    ]
+  },
+  "mob.warden.roar": {
+    "category": "hostile",
+    "max_distance": 48.0,
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/mob/warden/roar_5"
+    ]
+  },
+  "mob.warden.step": {
+    "category": "hostile",
+    "max_distance": 160.0,
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/mob/warden/step_4"
+    ]
+  },
+  "mob.warden.idle": {
+    "category": "hostile",
+    "max_distance": 64.0,
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/mob/warden/idle_12"
+    ]
+  },
+  "mob.warden.heartbeat": {
+    "category": "hostile",
+    "max_distance": 80.0,
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/mob/warden/heartbeat_4"
+    ]
+  },
+  "mob.warden.clicking": {
+    "category": "hostile",
+    "max_distance": 80.0,
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/mob/warden/tendril_clicks_6"
+    ]
+  },
+  "mob.warden.attack": {
+    "category": "hostile",
+    "max_distance": 80.0,
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/mob/warden/attack_impact_2"
+    ]
+  },
+  "mob.warden.hurt": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/mob/warden/hurt_4"
+    ]
+  },
+  "mob.warden.death": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/mob/warden/death_2"
+    ]
+  },
+  "use.sculk_sensor": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/sculk_sensor/step6"
+    ]
+  },
+  "break.sculk_sensor": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/sculk_sensor/break5"
+    ]
+  },
+  "place.sculk_sensor": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/sculk_sensor/place5"
+    ]
+  },
+  "hit.sculk_sensor": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/sculk_sensor/step6"
+    ]
+  },
+  "fall.sculk_sensor": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/sculk_sensor/step6"
+    ]
+  },
+  "step.sculk_sensor": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/sculk_sensor/step6"
+    ]
+  },
+  "jump.sculk_sensor": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/sculk_sensor/step6"
+    ]
+  },
+  "land.sculk_sensor": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/sculk_sensor/step6"
+    ]
+  },
+  "power.on.sculk_sensor": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/sculk_sensor/sculk_clicking6"
+    ]
+  },
+  "power.off.sculk_sensor": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/sculk_sensor/sculk_clicking_stop5"
+    ]
+  },
+  "bloom.sculk_catalyst": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/particles/soulspeed13"
+    ]
+  },
+  "hit.sculk_catalyst": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/sculk_catalyst/step6"
+    ]
+  },
+  "step.sculk_catalyst": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/sculk_catalyst/step6"
+    ]
+  },
+  "place.sculk_catalyst": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/sculk_catalyst/place5"
+    ]
+  },
+  "break.sculk_catalyst": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/sculk_catalyst/break10"
+    ]
+  },
+  "step.sculk_vein": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/sculk/step6"
+    ]
+  },
+  "break.sculk_vein": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/sculk_vein/break5"
+    ]
+  },
+  "spread.sculk": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/sculk/spread5"
+    ]
+  },
+  "charge.sculk": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/sculk/charge5"
+    ]
+  },
+  "hit.sculk": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/sculk/step6"
+    ]
+  },
+  "step.sculk": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/sculk/step6"
+    ]
+  },
+  "place.sculk": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/sculk/place5"
+    ]
+  },
+  "break.sculk": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/sculk/break14"
+    ]
+  },
+  "fall.sculk_shrieker": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/sculk/step6"
+    ]
+  },
+  "hit.sculk_shrieker": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/sculk/step6"
+    ]
+  },
+  "step.sculk_shrieker": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/sculk/step6"
+    ]
+  },
+  "place.sculk_shrieker": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/sculk_shrieker/place5"
+    ]
+  },
+  "break.sculk_shrieker": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/sculk_shrieker/break6"
+    ]
+  },
+  "shriek.sculk_shrieker": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/sculk_shrieker/shriek5"
+    ]
+  },
+  "mob.frog.death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.65
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.65
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.65
+      }
+    ]
+  },
+  "mob.frog.eat": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.6
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "pitch": 0.9,
+        "volume": 0.6
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.6
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "pitch": 0.9,
+        "volume": 0.6
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.6
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "pitch": 0.9,
+        "volume": 0.6
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.6
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "pitch": 0.9,
+        "volume": 0.6
+      }
+    ]
+  },
+  "mob.frog.hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/mob/frog/hurt1"
+      },
+      {
+        "name": "sounds/mob/frog/hurt2"
+      },
+      {
+        "name": "sounds/mob/frog/hurt3"
+      },
+      {
+        "name": "sounds/mob/frog/hurt4"
+      },
+      {
+        "name": "sounds/mob/frog/hurt5"
+      }
+    ]
+  },
+  "mob.frog.ambient": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.8,
+        "pitch": 0.95
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.82,
+        "pitch": 0.9
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.9,
+        "pitch": 0.9
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.8,
+        "pitch": 0.95
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.85,
+        "pitch": 0.9
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.9,
+        "pitch": 0.9
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.7,
+        "pitch": 0.9
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.3,
+        "pitch": 0.9
+      }
+    ]
+  },
+  "mob.frog.jump_to_block": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.12
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.12,
+        "pitch": 0.8
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.12
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.12,
+        "pitch": 0.8
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.12
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.12,
+        "pitch": 0.8
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.12
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.12,
+        "pitch": 0.8
+      }
+    ]
+  },
+  "mob.frog.step": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      }
+    ]
+  },
+  "mob.frog.tongue": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.5
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.5
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.5
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.5
+      }
+    ]
+  },
+  "break.frog_spawn": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/frog_spawn/break4"
+    ]
+  },
+  "hatch.frog_spawn": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/frog_spawn/hatch5"
+    ]
+  },
+  "step.frog_spawn": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/frog_spawn/step6"
+    ]
+  },
+  "break.froglight": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/froglight/break4"
+    ]
+  },
+  "step.froglight": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/froglight/step6"
+    ]
+  },
+  "mob.frog.lay_spawn": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.25,
+        "pitch": 1.0
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.25,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "mob.tadpole.death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.65
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.65
+      }
+    ]
+  },
+  "mob.tadpole.hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/mob/tadpole/hurt1"
+      },
+      {
+        "name": "sounds/mob/tadpole/hurt2"
+      },
+      {
+        "name": "sounds/mob/tadpole/hurt3"
+      },
+      {
+        "name": "sounds/mob/tadpole/hurt4"
+      }
+    ]
+  },
+  "mob.tadpole.convert_to_frog": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.8,
+        "pitch": 0.95
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.82,
+        "pitch": 0.9
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.9,
+        "pitch": 0.9
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.8,
+        "pitch": 0.95
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.85,
+        "pitch": 0.9
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.9,
+        "pitch": 0.9
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.7,
+        "pitch": 0.9
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.3,
+        "pitch": 0.9
+      }
+    ]
+  },
+  "mob.wanderingtrader.drink_potion": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.7
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.65
+      }
+    ]
+  },
+  "mob.allay.death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.5
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.5
+      }
+    ]
+  },
+  "mob.allay.hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.5
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.5
+      }
+    ]
+  },
+  "mob.allay.item_given": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.1
+      }
+    ]
+  },
+  "mob.allay.item_taken": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.1,
+        "pitch": 1.25
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.1,
+        "pitch": 1.25
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.1,
+        "pitch": 1.25
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.1,
+        "pitch": 1.25
+      }
+    ]
+  },
+  "mob.allay.item_thrown": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.3,
+        "pitch": 0.5
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.3,
+        "pitch": 0.5625
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.3,
+        "pitch": 0.625
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.3,
+        "pitch": 0.75
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.3,
+        "pitch": 0.9375
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.3,
+        "pitch": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.3,
+        "pitch": 1.125
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.3,
+        "pitch": 1.25
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.3,
+        "pitch": 1.5
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.3,
+        "pitch": 1.875
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.3,
+        "pitch": 2
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.3,
+        "pitch": 2.25
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.3,
+        "pitch": 2.5
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.3,
+        "pitch": 3
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.3,
+        "pitch": 3.75
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.3,
+        "pitch": 4
+      }
+    ]
+  },
+  "mob.allay.idle": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.12
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.12
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.12
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.12
+      }
+    ]
+  },
+  "mob.allay.idle_holding": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.25,
+        "pitch": 1.25
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.25,
+        "pitch": 1.25
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.25,
+        "pitch": 1.25
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.25,
+        "pitch": 1.25
+      }
+    ]
+  },
+  "mob.warden.sonic_boom": {
+    "category": "hostile",
+    "max_distance": 160.0,
+    "sounds": [
+      {
+        "name": "sounds/mob/warden/sonic_boom1"
+      },
+      {
+        "name": "sounds/mob/warden/sonic_boom2"
+      },
+      {
+        "name": "sounds/mob/warden/sonic_boom3"
+      },
+      {
+        "name": "sounds/mob/warden/sonic_boom4"
+      }
+    ]
+  },
+  "mob.warden.sonic_charge": {
+    "category": "hostile",
+    "max_distance": 160.0,
+    "sounds": [
+      {
+        "name": "sounds/mob/warden/sonic_charge1"
+      },
+      {
+        "name": "sounds/mob/warden/sonic_charge2"
+      },
+      {
+        "name": "sounds/mob/warden/sonic_charge3"
+      },
+      {
+        "name": "sounds/mob/warden/sonic_charge4"
+      }
+    ]
+  },
+  "block.mangrove_roots.break": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/mangrove_roots/break6"
+    ]
+  },
+  "block.mangrove_roots.fall": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/mangrove_roots/step6"
+    ]
+  },
+  "block.mangrove_roots.hit": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/mangrove_roots/step6"
+    ]
+  },
+  "block.mangrove_roots.place": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/mangrove_roots/break6"
+    ]
+  },
+  "block.mangrove_roots.step": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/mangrove_roots/step6"
+    ]
+  },
+  "block.muddy_mangrove_roots.break": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/muddy_mangrove_roots/break6"
+    ]
+  },
+  "block.muddy_mangrove_roots.fall": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/muddy_mangrove_roots/step6"
+    ]
+  },
+  "block.muddy_mangrove_roots.hit": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/muddy_mangrove_roots/step6"
+    ]
+  },
+  "block.muddy_mangrove_roots.place": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/muddy_mangrove_roots/break6"
+    ]
+  },
+  "block.muddy_mangrove_roots.step": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/muddy_mangrove_roots/step6"
+    ]
+  },
+  "block.mud_bricks.break": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/mud_bricks/break6"
+    ]
+  },
+  "block.mud_bricks.fall": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/mud_bricks/step6"
+    ]
+  },
+  "block.mud_bricks.hit": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/mud_bricks/step6"
+    ]
+  },
+  "block.mud_bricks.place": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/mud_bricks/break6"
+    ]
+  },
+  "block.mud_bricks.step": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/mud_bricks/step6"
+    ]
+  },
+  "block.mud.break": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/mud/break6"
+    ]
+  },
+  "block.mud.fall": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/mud/step6"
+    ]
+  },
+  "block.mud.hit": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/mud/step6"
+    ]
+  },
+  "block.mud.place": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/mud/break6"
+    ]
+  },
+  "block.mud.step": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/mud/step6"
+    ]
+  },
+  "block.packed_mud.break": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/packed_mud/break6"
+    ]
+  },
+  "block.packed_mud.fall": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/packed_mud/step6"
+    ]
+  },
+  "block.packed_mud.hit": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/packed_mud/step6"
+    ]
+  },
+  "block.packed_mud.place": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/packed_mud/break6"
+    ]
+  },
+  "block.packed_mud.step": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/block/packed_mud/step6"
+    ]
+  },
+  "music.game.deep_dark": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true
+      }
+    ]
+  },
+  "music.game.swamp_music": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true
+      }
+    ]
+  },
+  "music.menu": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.3
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.3
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.3
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.3
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.3
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.3
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.3
+      }
+    ]
+  },
+  "music.game_and_wild_equal_chance": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.2
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.2
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.2
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.2
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.2
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.3
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.3
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.2
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.2
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.2
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.4,
+        "stream": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.4,
+        "stream": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.4,
+        "stream": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.4,
+        "stream": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.game_and_wild_favor_game": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.2,
+        "weight": 3
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.2,
+        "weight": 3
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.2,
+        "weight": 3
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.1,
+        "weight": 3
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.2,
+        "weight": 3
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.1,
+        "weight": 3
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.2,
+        "weight": 3
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.3,
+        "weight": 3
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.3,
+        "weight": 3
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.2,
+        "weight": 3
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.2,
+        "weight": 3
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.2,
+        "weight": 3
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.4,
+        "stream": true,
+        "weight": 3
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.4,
+        "stream": true,
+        "weight": 3
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.4,
+        "stream": true,
+        "weight": 3
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.4,
+        "stream": true,
+        "weight": 3
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.game.lush_caves": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.40,
+        "weight": 2
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.40,
+        "weight": 4
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.40,
+        "weight": 2
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.40,
+        "weight": 2
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "mob.goat.horn_break": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/mob/goat/horn_break4"
+    ]
+  },
+  "horn.call.0": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/item/horn/call0"
+    ]
+  },
+  "horn.call.1": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/item/horn/call1"
+    ]
+  },
+  "horn.call.2": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/item/horn/call2"
+    ]
+  },
+  "horn.call.3": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/item/horn/call3"
+    ]
+  },
+  "horn.call.4": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/item/horn/call4"
+    ]
+  },
+  "horn.call.5": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/item/horn/call5"
+    ]
+  },
+  "horn.call.6": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/item/horn/call6"
+    ]
+  },
+  "horn.call.7": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/item/horn/call7"
+    ]
+  },
+  "record.5": {
+    "max_distance": 64.0,
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.5,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "mob.wanderingtrader.drink_milk": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "bloom.sculk_catalyst": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "horn.call.0": {
+    "category": "record",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "horn.call.1": {
+    "category": "record",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "horn.call.2": {
+    "category": "record",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "horn.call.3": {
+    "category": "record",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "horn.call.4": {
+    "category": "record",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "horn.call.5": {
+    "category": "record",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "horn.call.6": {
+    "category": "record",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "horn.call.7": {
+    "category": "record",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "block.enchanting_table.use": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      }
+    ]
+  },
+  "ambient.weather.thunder": {
+    "category": "weather",
+    "min_distance": 100.0,
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "ambient.weather.lightning.impact": {
+    "category": "weather",
+    "min_distance": 100.0,
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "ambient.weather.rain": {
+    "category": "weather",
+    "min_distance": 100.0,
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.02,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.02
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.02
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.02
+      }
+    ]
+  },
+  "beacon.activate": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "beacon.ambient": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "beacon.deactivate": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "beacon.power": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "block.lantern.break": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "block.lantern.fall": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "block.lantern.hit": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "block.lantern.place": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "pitch": 1.1,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "pitch": 1.1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "pitch": 1.1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "pitch": 1.1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "pitch": 1.1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "pitch": 1.1
+      }
+    ]
+  },
+  "block.lantern.step": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "block.bamboo.break": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.8
+      }
+    ]
+  },
+  "block.bamboo.fall": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      }
+    ]
+  },
+  "block.bamboo.hit": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      }
+    ]
+  },
+  "block.bamboo.place": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.8
+      }
+    ]
+  },
+  "block.bamboo.step": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1,
+        "pitch": 0.7
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1,
+        "pitch": 0.7
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      }
+    ]
+  },
+  "block.bamboo_sapling.place": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.85
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.85
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.85
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.85
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.85
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.85
+      }
+    ]
+  },
+  "block.bamboo_sapling.break": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.9
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.9
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.9
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.9
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.9
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.9
+      }
+    ]
+  },
+  "block.campfire.crackle": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "block.barrel.close": {
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      }
+    ]
+  },
+  "block.barrel.open": {
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1,
+        "pitch": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "block.false_permissions": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "block.end_portal.spawn": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "block.end_portal_frame.fill": {
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1,
+        "pitch": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1,
+        "pitch": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1,
+        "pitch": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1,
+        "pitch": 0.9
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1,
+        "pitch": 0.9
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1,
+        "pitch": 0.9
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1,
+        "pitch": 1.1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1,
+        "pitch": 1.1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1,
+        "pitch": 1.1
+      }
+    ]
+  },
+  "block.itemframe.add_item": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "block.itemframe.break": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "block.itemframe.place": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "block.itemframe.remove_item": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "block.itemframe.rotate_item": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "block.chorusflower.death": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "block.chorusflower.grow": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "block.composter.fill": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1.3,
+        "pitch": 0.8
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1.3,
+        "pitch": 0.8
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1.3,
+        "pitch": 0.8
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1.3,
+        "pitch": 0.8
+      }
+    ]
+  },
+  "block.composter.fill_success": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1.3
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1.3
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1.3
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1.3
+      }
+    ]
+  },
+  "block.composter.empty": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      }
+    ]
+  },
+  "block.composter.ready": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      }
+    ]
+  },
+  "block.loom.use": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      }
+    ]
+  },
+  "ui.loom.take_result": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      }
+    ]
+  },
+  "ui.cartography_table.take_result": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      }
+    ]
+  },
+  "ui.loom.select_pattern": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      }
+    ]
+  },
+  "block.stonecutter.use": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1,
+        "pitch": 0.92
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1,
+        "pitch": 0.92
+      }
+    ]
+  },
+  "ui.stonecutter.take_result": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1,
+        "pitch": 0.92
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1,
+        "pitch": 0.92
+      }
+    ]
+  },
+  "block.cartography_table.use": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      }
+    ]
+  },
+  "block.grindstone.use": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.5
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.5
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.5
+      }
+    ]
+  },
+  "block.turtle_egg.drop": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "block.turtle_egg.break": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "block.turtle_egg.crack": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "block.scaffolding.break": {
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true,
+        "volume": 0.8,
+        "pitch": 1.4
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.8,
+        "pitch": 1.4
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.8,
+        "pitch": 1.4
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.8,
+        "pitch": 1.4
+      }
+    ]
+  },
+  "block.scaffolding.fall": {
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "block.scaffolding.hit": {
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "block.scaffolding.place": {
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true,
+        "volume": 0.9
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.9
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.9
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.9
+      }
+    ]
+  },
+  "block.scaffolding.step": {
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "block.scaffolding.climb": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "block.sweet_berry_bush.break": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "block.sweet_berry_bush.place": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "block.sweet_berry_bush.hurt": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "block.sweet_berry_bush.pick": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "bucket.empty_lava": {
+    "category": "bucket",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "bucket.empty_water": {
+    "category": "bucket",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "bucket.fill_lava": {
+    "category": "bucket",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "bucket.fill_water": {
+    "category": "bucket",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "bucket.fill_fish": {
+    "category": "bucket",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "bucket.empty_fish": {
+    "category": "bucket",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "bottle.dragonbreath": {
+    "category": "bottle",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "cauldron.explode": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.3
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.3
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.3
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.3
+      }
+    ]
+  },
+  "cauldron.dyearmor": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.1
+      }
+    ]
+  },
+  "cauldron.cleanarmor": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.1
+      }
+    ]
+  },
+  "cauldron.cleanbanner": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.1
+      }
+    ]
+  },
+  "cauldron.fillpotion": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.1
+      }
+    ]
+  },
+  "cauldron.takepotion": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.1
+      }
+    ]
+  },
+  "cauldron.fillwater": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.1
+      }
+    ]
+  },
+  "cauldron.takewater": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.1
+      }
+    ]
+  },
+  "cauldron.adddye": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.1
+      }
+    ]
+  },
+  "conduit.activate": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "conduit.ambient": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "conduit.attack": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "conduit.deactivate": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "conduit.short": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "crossbow.loading.start": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "crossbow.loading.middle": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "crossbow.loading.end": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "crossbow.shoot": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "crossbow.quick_charge.start": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "crossbow.quick_charge.middle": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "crossbow.quick_charge.end": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "damage.fallbig": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "damage.fallsmall": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "elytra.loop": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "game.player.attack.nodamage": {
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.2
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.2,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.2
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.2
+      }
+    ]
+  },
+  "game.player.attack.strong": {
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.2,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.2
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.2
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.2
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.2
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.2
+      }
+    ]
+  },
+  "game.player.hurt": {
+    "category": "player",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "game.player.die": {
+    "category": "player",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "dig.cloth": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "dig.grass": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "dig.gravel": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "dig.sand": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "dig.snow": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "dig.stone": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "dig.wood": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "tile.piston.in": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "tile.piston.out": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "fire.fire": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "fire.ignite": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "leashknot.break": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "leashknot.place": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "firework.blast": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "firework.large_blast": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "firework.launch": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "firework.shoot": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "firework.twinkle": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "armor.equip_chain": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "armor.equip_diamond": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "armor.equip_generic": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "armor.equip_gold": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "armor.equip_iron": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "armor.equip_leather": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "liquid.lava": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "liquid.lavapop": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "liquid.water": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "bubble.pop": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "bubble.up": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "bubble.upinside": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "bubble.down": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "bubble.downinside": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "minecart.base": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "minecart.inside": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "block.furnace.lit": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "block.blastfurnace.fire_crackle": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "block.smoker.smoke": {
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya"
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya"
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "pitch": 0.8
+      }
+    ]
+  },
+  "mob.agent.spawn": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.armor_stand.break": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.armor_stand.hit": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.armor_stand.land": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.armor_stand.place": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.bat.death": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.bat.hurt": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.bat.idle": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.bat.takeoff": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.blaze.breathe": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.blaze.death": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.blaze.hit": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.blaze.shoot": {
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 3
+      }
+    ],
+    "subtitle": "subtitles.entity.blaze.shoot"
+  },
+  "mob.chicken.hurt": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.chicken.plop": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.chicken.say": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "mob.chicken.step": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.cow.hurt": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.cow.say": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.cow.step": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.cow.milk": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.creeper.death": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.creeper.say": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.dolphin.idle_water": {
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.dolphin.attack": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.dolphin.blowhole": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.dolphin.death": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.dolphin.eat": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.dolphin.hurt": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.dolphin.idle": {
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.dolphin.jump": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.dolphin.play": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.dolphin.splash": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.dolphin.swim": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.drowned.say_water": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.drowned.death_water": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.drowned.hurt_water": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.drowned.say": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.drowned.death": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.drowned.hurt": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.drowned.shoot": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.drowned.step": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.drowned.swim": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "entity.zombie.converted_to_drowned": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.endermen.death": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.endermen.hit": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.endermen.idle": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.endermen.portal": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.endermen.scream": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.endermen.stare": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.enderdragon.death": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 8
+      }
+    ]
+  },
+  "mob.enderdragon.hit": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 7
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 7
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 7
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 7
+      }
+    ]
+  },
+  "mob.enderdragon.flap": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 5
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 5
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 5
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 5
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 5
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 5
+      }
+    ]
+  },
+  "mob.enderdragon.growl": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 8
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 8
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 8
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 8
+      }
+    ]
+  },
+  "mob.fox.ambient": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.8,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      }
+    ]
+  },
+  "mob.fox.hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.75
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.75
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.75
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.75
+      }
+    ]
+  },
+  "mob.fox.death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.9
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.9
+      }
+    ]
+  },
+  "mob.fox.aggro": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.65
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.65
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.65
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.65
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.65
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.65
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.65
+      }
+    ]
+  },
+  "mob.fox.sniff": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.6
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.6
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.6
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.6
+      }
+    ]
+  },
+  "mob.fox.bite": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.6,
+        "pitch": 1.1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.6,
+        "pitch": 1.1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.6,
+        "pitch": 1.1
+      }
+    ]
+  },
+  "mob.fox.eat": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.65
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.65
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.65
+      }
+    ]
+  },
+  "mob.fox.screech": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.9
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.9
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.9
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.8
+      }
+    ]
+  },
+  "mob.fox.sleep": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.8
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.8
+      }
+    ]
+  },
+  "mob.fox.spit": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.7
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.7
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.7
+      }
+    ]
+  },
+  "mob.ghast.affectionate_scream": {
+    "category": "hostile",
+    "min_distance": 100.0,
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.5
+      }
+    ]
+  },
+  "mob.ghast.charge": {
+    "category": "hostile",
+    "min_distance": 100.0,
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.5,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "mob.ghast.death": {
+    "category": "hostile",
+    "min_distance": 100.0,
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.5
+      }
+    ]
+  },
+  "mob.ghast.fireball": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.ghast.moan": {
+    "category": "hostile",
+    "min_distance": 100.0,
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.5,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.5
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.5
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.5
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.5
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.5
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.5
+      }
+    ]
+  },
+  "mob.ghast.scream": {
+    "category": "hostile",
+    "min_distance": 100.0,
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.5
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.5
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.5,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.5
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.5
+      }
+    ]
+  },
+  "mob.guardian.ambient": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.guardian.attack_loop": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "mob.elderguardian.curse": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.elderguardian.death": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.elderguardian.hit": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.elderguardian.idle": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.guardian.flop": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.guardian.death": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.guardian.hit": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.guardian.land_death": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.guardian.land_hit": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.guardian.land_idle": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.fish.flop": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.fish.hurt": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.fish.step": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.llama.angry": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.llama.death": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.llama.idle": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.llama.spit": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.llama.hurt": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.llama.eat": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.llama.step": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.llama.swag": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.horse.angry": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.horse.armor": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.horse.breathe": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.horse.death": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.horse.donkey.angry": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.horse.donkey.death": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.horse.donkey.hit": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.horse.donkey.idle": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.horse.eat": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.horse.gallop": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.horse.hit": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.horse.idle": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.horse.jump": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.horse.land": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.horse.leather": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.horse.skeleton.death": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.horse.skeleton.hit": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.horse.skeleton.idle": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.horse.soft": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.horse.wood": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.horse.zombie.death": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.horse.zombie.hit": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.horse.zombie.idle": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.husk.ambient": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.husk.death": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.husk.hurt": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.husk.step": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.ravager.ambient": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.ravager.bite": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "mob.ravager.celebrate": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.ravager.death": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.ravager.hurt": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.ravager.roar": {
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.ravager.step": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.ravager.stun": {
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.irongolem.throw": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.irongolem.death": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.irongolem.hit": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.irongolem.walk": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.shulker.ambient": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.shulker.close": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.shulker.death": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.shulker.close.hurt": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.shulker.hurt": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.shulker.open": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.shulker.shoot": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 2.0
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 2.0
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 2.0
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 2.0
+      }
+    ]
+  },
+  "mob.shulker.teleport": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.shulker.bullet.hit": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.magmacube.big": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.magmacube.jump": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.magmacube.small": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.mooshroom.convert": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.75
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.75
+      }
+    ]
+  },
+  "mob.mooshroom.eat": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "pitch": 0.95
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "pitch": 0.95
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "pitch": 0.95
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "pitch": 0.95
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "pitch": 1.05
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "pitch": 1.05
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "pitch": 1.05
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "pitch": 1.05
+      }
+    ]
+  },
+  "mob.mooshroom.suspicious_milk": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "pitch": 0.9
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "pitch": 0.9
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "pitch": 0.9
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "pitch": 1.1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "pitch": 1.1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "pitch": 1.1
+      }
+    ]
+  },
+  "mob.parrot.idle": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.parrot.hurt": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.parrot.death": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.parrot.step": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.parrot.eat": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.parrot.fly": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.phantom.bite": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.phantom.death": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.phantom.hurt": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.phantom.idle": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.phantom.swoop": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.pig.death": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.pig.boost": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.pig.say": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.pig.step": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.pillager.celebrate": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.pillager.death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.pillager.hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.pillager.idle": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.rabbit.hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.5
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.5
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.5
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.5
+      }
+    ]
+  },
+  "mob.rabbit.idle": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.25
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.25
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.25
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.25
+      }
+    ]
+  },
+  "mob.rabbit.hop": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.1
+      }
+    ]
+  },
+  "mob.rabbit.death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.5
+      }
+    ]
+  },
+  "mob.sheep.say": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.sheep.shear": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.sheep.step": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.silverfish.hit": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.silverfish.kill": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.silverfish.say": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.silverfish.step": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.endermite.hit": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.endermite.kill": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.endermite.say": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.endermite.step": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.skeleton.death": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.skeleton.hurt": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.skeleton.say": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "mob.skeleton.step": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.slime.big": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.slime.small": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.slime.attack": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ],
+    "subtitle": "subtitles.entity.slime.attack"
+  },
+  "mob.slime.death": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ],
+    "subtitle": "subtitles.entity.slime.death"
+  },
+  "mob.slime.hurt": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ],
+    "subtitle": "subtitles.entity.slime.hurt"
+  },
+  "mob.slime.jump": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ],
+    "subtitle": "subtitles.entity.slime.squish"
+  },
+  "mob.slime.squish": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ],
+    "subtitle": "subtitles.entity.slime.squish"
+  },
+  "mob.snowgolem.death": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.snowgolem.hurt": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.snowgolem.shoot": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.spider.death": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.spider.say": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "mob.spider.step": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.squid.ambient": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.squid.death": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.squid.hurt": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.turtle.ambient": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.turtle_baby.born": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.turtle.death": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.turtle_baby.death": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.turtle.hurt": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.turtle_baby.hurt": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.turtle.step": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.turtle_baby.step": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.turtle.swim": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.stray.ambient": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.stray.death": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.stray.hurt": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.stray.step": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.villager.death": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.villager.haggle": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.villager.hit": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.villager.idle": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.villager.no": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.villager.yes": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.vindicator.celebrate": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.vindicator.death": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.vindicator.hurt": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.vindicator.idle": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.evocation_fangs.attack": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.evocation_illager.ambient": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.evocation_illager.cast_spell": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.evocation_illager.celebrate": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.evocation_illager.death": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.evocation_illager.hurt": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.evocation_illager.prepare_attack": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.evocation_illager.prepare_summon": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.evocation_illager.prepare_wololo": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.vex.ambient": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.vex.death": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.vex.hurt": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.vex.charge": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "item.book.page_turn": {
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 2
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 2
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 2
+      }
+    ]
+  },
+  "item.book.put": {
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 4
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 4
+      }
+    ]
+  },
+  "block.bell.hit": {
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "pitch": 0.95,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "pitch": 0.95
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "pitch": 0.93
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "pitch": 0.93
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "pitch": 0.97
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "pitch": 0.97
+      }
+    ]
+  },
+  "item.trident.hit_ground": {
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.9,
+        "pitch": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.9,
+        "pitch": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.9,
+        "pitch": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.9,
+        "pitch": 1
+      }
+    ]
+  },
+  "item.trident.hit": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "item.trident.return": {
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.8,
+        "pitch": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.8,
+        "pitch": 0.8
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.8,
+        "pitch": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.8,
+        "pitch": 0.8
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.8,
+        "pitch": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.8,
+        "pitch": 0.8
+      }
+    ]
+  },
+  "item.trident.riptide_1": {
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1,
+        "pitch": 1,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "item.trident.riptide_2": {
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1,
+        "pitch": 1,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "item.trident.riptide_3": {
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1,
+        "pitch": 1,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "item.trident.throw": {
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1,
+        "pitch": 1,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
+  "item.trident.thunder": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "item.shield.block": {
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1,
+        "pitch": 1,
+        "load_on_low_memory": false
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1,
+        "pitch": 1,
+        "load_on_low_memory": false
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1,
+        "pitch": 1,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1,
+        "pitch": 1,
+        "load_on_low_memory": false
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 1,
+        "pitch": 1,
+        "load_on_low_memory": false
+      }
+    ]
+  },
+  "mob.wanderingtrader.idle": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.wanderingtrader.death": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.wanderingtrader.disappeared": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.wanderingtrader.drink_milk": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.wanderingtrader.drink_potion": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.wanderingtrader.haggle": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.wanderingtrader.yes": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.wanderingtrader.no": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.wanderingtrader.hurt": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.wanderingtrader.reappeared": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.witch.ambient": {
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true,
+        "pitch": 0.7
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.witch.celebrate": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.witch.death": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.witch.hurt": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.witch.drink": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.witch.throw": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.wither.ambient": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.wither.break_block": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.wither.death": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.wither.hurt": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.wither.shoot": {
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "mob.wither.spawn": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.wolf.bark": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.wolf.death": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.wolf.growl": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.wolf.hurt": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.wolf.panting": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.wolf.shake": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.wolf.step": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.wolf.whine": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.ocelot.idle": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.3
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.3
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.45
+      }
+    ]
+  },
+  "mob.ocelot.death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.45,
+        "pitch": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.45,
+        "pitch": 1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.45,
+        "pitch": 1
+      }
+    ]
+  },
+  "mob.cat.eat": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.cat.hiss": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.4
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.4
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.4
+      }
+    ]
+  },
+  "mob.cat.hit": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.cat.meow": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.4
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.3
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.4
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.3
+      }
+    ]
+  },
+  "mob.cat.beg": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.7
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.7
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.7
+      }
+    ]
+  },
+  "mob.cat.straymeow": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.35
+      }
+    ]
+  },
+  "mob.cat.purr": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.4
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.4
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.4
+      }
+    ]
+  },
+  "mob.cat.purreow": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.4
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.4
+      }
+    ]
+  },
+  "mob.polarbear_baby.idle": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.polarbear.idle": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.polarbear.step": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.polarbear.warning": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.polarbear.hurt": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.polarbear.death": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.panda_baby.idle": {
+    "category": "neutral",
+    "pitch": 1.5,
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.panda.idle": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.panda.idle.aggressive": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.8
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.panda.idle.worried": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.panda.step": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.panda.presneeze": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.panda.sneeze": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.panda.hurt": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.panda.death": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.panda.bite": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.panda.eat": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.85
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.panda.cant_breed": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.zombie.death": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.zombie.hurt": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.zombie.remedy": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.zombie.unfect": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.zombie.say": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.zombie.step": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.zombie.wood": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.zombie.woodbreak": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.zombiepig.zpig": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.zombiepig.zpigangry": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.zombiepig.zpigdeath": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.zombiepig.zpighurt": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.zombie_villager.say": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.zombie_villager.death": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "mob.zombie_villager.hurt": {
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "note.banjo": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "note.bass": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "note.bassattack": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "note.bd": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "note.bell": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "note.bit": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "note.cow_bell": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "note.didgeridoo": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "note.flute": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "note.guitar": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "note.harp": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "note.hat": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "note.chime": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "note.iron_xylophone": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "note.pling": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "note.snare": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "note.xylophone": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "portal.portal": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "portal.travel": {
+    "category": "ui",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "portal.trigger": {
+    "category": "ui",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "random.anvil_break": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "random.anvil_land": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "random.anvil_use": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "hit.anvil": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "random.bow": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "random.bowhit": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "random.break": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "random.burp": {
+    "category": "player",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "random.chestclosed": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "random.chestopen": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "random.shulkerboxclosed": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "random.shulkerboxopen": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "random.enderchestopen": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "random.enderchestclosed": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "random.potion.brewed": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "random.click": {
+    "category": "ui",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.2,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "random.door_close": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.4,
+        "pitch": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.4,
+        "pitch": 1.1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.4,
+        "pitch": 0.9
+      }
+    ]
+  },
+  "random.door_open": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.4,
+        "pitch": 1.0,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.4,
+        "pitch": 1.1
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.4,
+        "pitch": 0.9
+      }
+    ]
+  },
+  "random.drink": {
+    "category": "player",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "random.eat": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "random.explode": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "random.fizz": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "random.fuse": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "random.glass": {
+    "category": "block",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "random.levelup": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "random.orb": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "random.pop": {
+    "category": "player",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "random.pop2": {
+    "category": "player",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "random.screenshot": {
+    "category": "ui",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "random.splash": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "random.swim": {
+    "category": "player",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "random.hurt": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "random.toast": {
+    "category": "ui",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "random.totem": {
+    "category": "player",
+    "sounds": [
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "camera.take_picture": {
+    "category": "player",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "use.ladder": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "hit.ladder": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "fall.ladder": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "step.ladder": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "use.cloth": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "hit.cloth": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "fall.cloth": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "step.cloth": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "use.grass": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "hit.grass": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "fall.grass": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "step.grass": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "use.gravel": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "hit.gravel": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "fall.gravel": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "step.gravel": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.3,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.3
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.3
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.3
+      }
+    ]
+  },
+  "use.sand": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "hit.sand": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "fall.sand": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "step.sand": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "use.slime": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "hit.slime": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "fall.slime": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "step.slime": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "use.snow": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "hit.snow": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "fall.snow": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "step.snow": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "use.stone": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "hit.stone": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "fall.stone": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "fall.egg": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "step.stone": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "use.wood": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "hit.wood": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "fall.wood": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "step.wood": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.4
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.4
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.4
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.4
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.4
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 0.4,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "jump.cloth": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "jump.grass": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "jump.gravel": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "jump.sand": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "jump.snow": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "jump.stone": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      },
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "jump.wood": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "jump.slime": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "land.cloth": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "land.grass": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "land.gravel": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "land.sand": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "land.snow": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "land.stone": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "land.wood": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "land.slime": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "vr.stutterturn": {
+    "category": "player",
+    "sounds": [
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya",
+      "sounds/aerell/kamu_nanya"
+    ]
+  },
+  "record.13": {
+    "max_distance": 64.0,
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.5,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "record.cat": {
+    "max_distance": 64.0,
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.5,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "record.blocks": {
+    "max_distance": 64.0,
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.5,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "record.chirp": {
+    "max_distance": 64.0,
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.5,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "record.far": {
+    "max_distance": 64.0,
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.5,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "record.mall": {
+    "max_distance": 64.0,
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.5,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "record.mellohi": {
+    "max_distance": 64.0,
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.5,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "record.stal": {
+    "max_distance": 64.0,
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.5,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "record.strad": {
+    "max_distance": 64.0,
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.5,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "record.ward": {
+    "max_distance": 64.0,
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.5,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "record.11": {
+    "max_distance": 64.0,
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.5,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "record.wait": {
+    "max_distance": 64.0,
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.5,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "raid.horn": {
+    "category": "neutral",
+    "max_distance": 128.0,
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "load_on_low_memory": true,
+        "volume": 10.0
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 10.0
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 10.0
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "volume": 10.0
+      }
+    ]
+  },
+  "music.menu": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.3,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.3,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.3,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.3,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "music.game": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.2,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.2,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.2,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.1,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.2,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.1,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.2,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.3,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.3,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.2,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.2,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.2,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "music.game.creative": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.1,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.1,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.1,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.1,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.1,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.1,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "music.game.water": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.2,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.2,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.2,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "music.game.end": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.2,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "music.game.endboss": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.3,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "music.game.nether": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.15,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.15,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.15,
+        "load_on_low_memory": true
+      },
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.15,
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "music.game.credits": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sounds/aerell/kamu_nanya",
+        "stream": true,
+        "volume": 0.1,
+        "load_on_low_memory": true
+      }
+    ]
+  }
+}

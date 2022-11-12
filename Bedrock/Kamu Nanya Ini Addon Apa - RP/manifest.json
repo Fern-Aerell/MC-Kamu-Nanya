@@ -1,0 +1,23 @@
+{
+        "metadata": {
+        "authors": [
+            "Fern Aerell"
+        ]
+    },
+    "format_version": 2,
+    "header": {
+        "description": "§c- Kamu Nanya Ini Buatan Siapa? Biar Aku Kasih Tau Ya, Ini Tuh Buatan AerellDev -\n§fKamu Nanya Deskripsi Addon Ini Apa?",
+        "name": "§lKamu Nanya Ini Texture Pack Apa?",
+        "uuid": "feb9ee84-fc04-462a-8b66-77a2f31b4aa3",
+        "version": [1, 0, 0],
+        "min_engine_version": [ 1, 18, 0]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "resources",
+            "uuid": "4402a076-0e23-4e8d-8e03-722a2166bfda",
+            "version": [1, 0, 0]
+        }
+    ]
+}
